@@ -1,0 +1,17 @@
+# Changes here will be overwritten by Copier
+_commit: 2.1.0
+_src_path: gh:DiamondLightSource/python-copier-template
+author_email: stanislaw.malinowski@diamond.ac.uk
+author_name: Stanislaw Malinowski
+component_owner: group:default/Data Acquisition
+description: Bluesky scripts to be used by all beamlines with a single git repository
+    on github, mirrored on gitlab
+distribution_name: shared-scripts
+docker: true
+docs_type: README
+git_platform: github.com
+github_org: stan-dot
+package_name: shared_scripts
+pypi: true
+repo_name: shared-scripts
+type_checker: pyright

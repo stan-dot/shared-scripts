@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: shared-scripts
+  title: shared-scripts
+  description: Bluesky scripts to be used by all beamlines with a single git repository on github, mirrored on gitlab
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: group:default/Data Acquisition
